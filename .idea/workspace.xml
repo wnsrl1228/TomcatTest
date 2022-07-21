@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1f8cbec-b22b-4441-8b10-77af7d9602d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ll/exam/GugudanServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/comll/exam/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ll/exam/HelloServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/comll/exam/gugudan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ll/exam/GugudanServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ll/exam/GugudanServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/webapp/gugudan.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/webapp/gugudan.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +55,9 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="comll.exam" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\lionlike\tomcatTest\src\webapp" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="tomcat" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
@@ -91,7 +93,7 @@
       <workItem from="1658211819858" duration="2971000" />
       <workItem from="1658220116767" duration="861000" />
       <workItem from="1658292045673" duration="2503000" />
-      <workItem from="1658376092941" duration="5076000" />
+      <workItem from="1658376092941" duration="6529000" />
     </task>
     <servers />
   </component>
